@@ -1,5 +1,5 @@
 ## Evidencias Practica 1
-### Elavorado por: Carlos Hoyos
+### Elaborado por: Carlos Hoyos
 1. ***Configuración del entorno:*** El estudiante deberá configurar su dispositivo de elección para ejecutar una imagen virtualizada de Linux, este será un suministro importante para el resto de prácticas.  
 La imagen virtualizada escogida es: **Arch Linux**,  también se realizó la instalación de las Guest Additions.  
 ![ARCH](https://user-images.githubusercontent.com/74604371/204191957-eb907b62-6b02-4d17-b628-3b4b44cc91a5.png)<p align="center">_Instalación correctamente de Arch Linux_</p>
