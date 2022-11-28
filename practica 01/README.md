@@ -2,6 +2,7 @@
 ### Elavorado por: Carlos Hoyos
 1. ***Configuración del entorno:*** El estudiante deberá configurar su dispositivo de elección para ejecutar una imagen virtualizada de Linux, este será un suministro importante para el resto de prácticas.  
 La imagen virtualizada escogida es: **Arch Linux**,  también se realizó la instalación de las Guest Additions.  
+![ARCH](https://user-images.githubusercontent.com/74604371/204191957-eb907b62-6b02-4d17-b628-3b4b44cc91a5.png)<p align="center">_Instalación correctamente de Arch Linux_</p>
 2. ***Instalar docker***  
 Para instalar docker utilizamos la herramienta **paru**, despues utilizamos los comandos para instalar docker.  
 ![comandos docker](https://user-images.githubusercontent.com/74604371/204170151-62b9917a-d7b2-4323-973f-0e25856722d7.jpg) <p align="center">_Comandos utilizados para instalar docker utilizando Paru_</p>  
@@ -20,11 +21,10 @@ Se instaló correctamente docker y se le dió privilegios al usuario, comprobemo
   - **lsof:** recuperar detalles sobre varios tipos de archivos abiertos por diferentes procesos en ejecución.  
   ![comando lsof](https://user-images.githubusercontent.com/74604371/204176994-982cffd4-b6e3-4358-a794-4317d9ba2869.JPG)<p align="center">_comando lsof detalles sobre tipos de archivos abiertos._ </p>  
 4. **Identificar servicios desplegados:** El estudiante deberá identificar 5 servicios diferentes listados por las herramientas de red y determinar a qué aplicaciones posiblemente están relacionados. 
-![servidor UDP y TCP](https://user-images.githubusercontent.com/74604371/204186489-16120fc1-00e6-47e6-9d7a-e99448b6445b.JPG)
- <p align="center">_Servicios desplegados en este caso es de tipo TCP y UDP_ </p>  
+![servidor UDP y TCP](https://user-images.githubusercontent.com/74604371/204192499-67093e4e-2715-4427-b033-cae7ee3a1555.JPG)<p align="center">_Servicios desplegados en este caso es de tipo TCP y UDP_ </p>  
 5. **Evaluar scripts en Python:** Al estudiante se le entregarán scripts en Python para desplegar un ejemplo de cliente servidor con protocolos TCP y UDP, el estudiante evaluará el rendimiento de los dos servicios y debe descubrir la ocupación de los puertos por medio de las herramientas previamente estudiadas. 
   -**Cliente y Servidor TCP:**  
-  ![Cliente y Servidor TCP](https://user-images.githubusercontent.com/74604371/204185381-7ec9b512-be35-4df6-9759-189d734181db.JPG)<p align="center">_ejecucion del cliente y servidor TCP_ </p>  
-  -**Cliente y Servidor UDP:**  
-  ![cliente y servidor UDP](https://user-images.githubusercontent.com/74604371/204184342-0a629a6a-7857-4749-8509-aa2d7068552a.JPG)<p align="center">_ejecucion del cliente y servidor UDP_</p>  
+  ![Cliente y Servidor TCP](https://user-images.githubusercontent.com/74604371/204185381-7ec9b512-be35-4df6-9759-189d734181db.JPG) <p align="center">_ejecucion del cliente y servidor TCP_ </p>  
+  -**Cliente y Servidor UDP:**   
+  ![cliente y servidor UDP](https://user-images.githubusercontent.com/74604371/204184342-0a629a6a-7857-4749-8509-aa2d7068552a.JPG) <p align="center">_ejecucion del cliente y servidor UDP_ </p>  
 En este caso los protocolos **TCP** y **UDP** estan utilizando el mismo puerto, pero como en el protocolo **UDP** no requiere una conexión de larga duración solo utiliza el puerto cuando por una corta duración, en el protocolo **TCP** ambos extremos de un conector TCP/IP estén conectados, lo que deja escuchando siempre al servidor
