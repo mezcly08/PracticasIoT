@@ -27,4 +27,5 @@ Se instaló correctamente docker y se le dió privilegios al usuario, comprobemo
   ![Cliente y Servidor TCP](https://user-images.githubusercontent.com/74604371/204185381-7ec9b512-be35-4df6-9759-189d734181db.JPG) <p align="center">_ejecucion del cliente y servidor TCP_ </p>  
   -**Cliente y Servidor UDP:**   
   ![cliente y servidor UDP](https://user-images.githubusercontent.com/74604371/204184342-0a629a6a-7857-4749-8509-aa2d7068552a.JPG) <p align="center">_ejecucion del cliente y servidor UDP_ </p>  
-En este caso los protocolos **TCP** y **UDP** estan utilizando el mismo puerto, pero como en el protocolo **UDP** no requiere una conexión de larga duración solo utiliza el puerto cuando por una corta duración, en el protocolo **TCP** ambos extremos de un conector TCP/IP estén conectados, lo que deja escuchando siempre al servidor
+En este caso los protocolos **TCP** y **UDP** estan utilizando el mismo puerto, pero como en el protocolo **UDP** no requiere una conexión de larga duración solo utiliza el puerto cuando por una corta duración, en el protocolo **TCP** ambos extremos de un conector TCP/IP estén conectados, lo que deja escuchando siempre al servidor  
+:shipit: Fin de la práctica :sleeping:
