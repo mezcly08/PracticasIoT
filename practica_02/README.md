@@ -22,5 +22,4 @@
   - Nombre completo: Carlos Enrique Hoyos J.  
   - Nombre de la asignatura: Web Semantica  
   - Fecha de realización: 29/11/2022  
-
-
+**Link del repositorio del servidor:  https://github.com/mezcly08/Practica_02**
