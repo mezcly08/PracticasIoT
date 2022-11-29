@@ -17,5 +17,10 @@
   ![Archivo pacquete](https://user-images.githubusercontent.com/74604371/204346890-41b9f8e2-ad35-4908-a3ff-8cce0f86b041.JPG)<p align="center">_Archivo package.json_</p>  
 - **Enviar peticiones:** gracias al comando netstat -tulpn | grep node podemos observar que el servidor ya está escuchando y podemos ejecutar con la ip + puerto.
   ![Terminal](https://user-images.githubusercontent.com/74604371/204347809-e8fabe14-3c53-4dcf-93e9-f9ed3b49ee10.png)<p align="center">_servidor listo para recibir peticiones y probando el servidor_</p>  
+3. **IV. Los verbos HTTP**
+![postman](https://user-images.githubusercontent.com/74604371/204446816-f960cda4-655b-4b00-bf9e-9dcc45489612.jpg)<p align="center">_Implementación de los verbos HTTP y comprobación con el programa postman_</p>  
+  - Nombre completo: Carlos Enrique Hoyos J.  
+  - Nombre de la asignatura: Web Semantica  
+  - Fecha de realización: 29/11/2022  
 
 
