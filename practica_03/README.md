@@ -11,4 +11,11 @@ I. **Arquitectura hexagonal**
 5. ***Modificar el controlador motos.controller.ts para que se emplee el la implementación del servicio.***  
 ![controladores](https://user-images.githubusercontent.com/74604371/204713740-5e6368a7-3a63-40e4-9d84-fa7bcfc3e1a3.JPG)<p align="center">_Modificación del controlador para implementarción del servicio_</p>  
 II. **Implementado seguridad**  
+1. ***Instalar el paquete @nestjs/passport y passport***  
+![npm install](https://user-images.githubusercontent.com/74604371/204715092-b915a940-a03c-48ef-8432-67297d8d64c2.JPG)<p align="center">_Instalación de los paquetes @nestjs/passport y passport_</p>  
+2. ***Crear modulo de Autenticación***  
+![uno](https://user-images.githubusercontent.com/74604371/204715476-95404010-d26c-4e5d-9c14-e0883c902325.JPG)<p align="center">_Ejecución de los comandos para crear modulos de autenticación_</p>  
+3. ***Crear modulos para gestión de Usuarios***  
+![image](https://user-images.githubusercontent.com/74604371/204715867-d988599c-e59a-4a90-ad4b-e7c0ade151bc.png)<p align="center">_Ejecución de los comandos para crear modulos de gestión de Usuarios_</p> 
+
 
