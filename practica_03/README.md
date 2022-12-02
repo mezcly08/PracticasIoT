@@ -19,7 +19,14 @@ II. **Implementado seguridad**
 ![image](https://user-images.githubusercontent.com/74604371/204715867-d988599c-e59a-4a90-ad4b-e7c0ade151bc.png)<p align="center">_Ejecución de los comandos para crear modulos de gestión de Usuarios_</p> 
 4. ***Implementación del servidor con seguridad***
 ![image](https://user-images.githubusercontent.com/74604371/205186663-53df434e-24cd-48cd-909f-e4ea1e47a6ba.png)<p align="center">_Arquitectura del servidor y implementación de la seguridad_</p> 
-***Link del repositorio: https://github.com/mezcly08/Practica_02/tree/Practica3_seguridad  
+***Link del repositorio: https://github.com/mezcly08/Practica_02/tree/Practica3_seguridad***  
+III. ***Autenticación con JWT***
+1. ***Organizar la estructura del servidor JWT y generar Token***  
+![image](https://user-images.githubusercontent.com/74604371/205198667-5afa8c2d-ff91-4031-83a8-ebce3f080471.png)<p align="center">_Arquitectura del servidor en JWT y generar el token de access_</p>  
+2.***Crear un nuevo registro en el servidor con JWT***  
+
+3. ***Proteger los verbos HTTP***  
+![image](https://user-images.githubusercontent.com/74604371/205200540-37a40755-5af6-432e-a3cf-021125ab5e6c.png)<p align="center">_Proteger los verbos HTTP_</p>  
 
 
 
