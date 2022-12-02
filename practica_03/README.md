@@ -17,5 +17,9 @@ II. **Implementado seguridad**
 ![uno](https://user-images.githubusercontent.com/74604371/204715476-95404010-d26c-4e5d-9c14-e0883c902325.JPG)<p align="center">_Ejecución de los comandos para crear modulos de autenticación_</p>  
 3. ***Crear modulos para gestión de Usuarios***  
 ![image](https://user-images.githubusercontent.com/74604371/204715867-d988599c-e59a-4a90-ad4b-e7c0ade151bc.png)<p align="center">_Ejecución de los comandos para crear modulos de gestión de Usuarios_</p> 
+4. ***Implementación del servidor con seguridad***
+![image](https://user-images.githubusercontent.com/74604371/205186663-53df434e-24cd-48cd-909f-e4ea1e47a6ba.png)<p align="center">_Arquitectura del servidor y implementación de la seguridad_</p> 
+***Link del repositorio: https://github.com/mezcly08/Practica_02/tree/Practica3_seguridad  
+
 
 
