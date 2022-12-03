@@ -9,4 +9,5 @@
   3. ***Iniciar sesión en Deta ejecutando en la terminal***  
   ![image](https://user-images.githubusercontent.com/74604371/205424995-89d75b28-74da-4a54-ad02-29a04f451984.png)<p align="center">_Inicio de sesión correcto DETA_</p>  
   4. ***Creación de los archivos index.js e index.ts***  
-  ![image](https://user-images.githubusercontent.com/74604371/205425181-64d9d88a-90f2-4244-a252-89acc415d75d.png)<p align="center">_Creación de los archivos indes_</p> 
+  ![image](https://user-images.githubusercontent.com/74604371/205425181-64d9d88a-90f2-4244-a252-89acc415d75d.png)<p align="center">_Creación de los archivos indes_</p>  
+  
