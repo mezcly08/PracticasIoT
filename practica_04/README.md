@@ -1,6 +1,6 @@
 ## Práctica 4: Desplegando en la nube
 - ***Elaborado por: Carlos Hoyos***  
-- ***Link del repositorio:***  
+- ***Link del repositorio:https://github.com/mezcly08/Practica_02/tree/practica4_NOBD***  
 ### 1. **Desplegar una aplicación en la nube**  
   1. ***Descargar deta ejecutando en la terminal***  
   ![image](https://user-images.githubusercontent.com/74604371/205424851-f3469fdb-8856-4816-894a-2bc0fc8e639b.png)<p align="center">_Descarga de DETA_</p>  
