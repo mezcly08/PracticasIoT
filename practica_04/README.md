@@ -16,4 +16,4 @@
   ![image](https://user-images.githubusercontent.com/74604371/205426647-437d228b-0f48-46eb-a57d-8bfbe1abfc45.png)<p align="center">_desplegando y activando los logs del proyecto_</p>  
   7. ***Obteniendo el URL del proyecto***  
   ![image](https://user-images.githubusercontent.com/74604371/205426728-b32c39f2-b9f6-457a-9c48-4258a29f8154.png)<p align="center">_ejecución del proyecto con la URL generada en DETA_</p>  
-
+### 2. **Conectado a una base de datos**  
