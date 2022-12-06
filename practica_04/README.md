@@ -19,3 +19,9 @@
 ### 2. **Conectado a una base de datos**  
   1. ***Instalando dependencias de MongoDB y TypeORM***  
   ![image](https://user-images.githubusercontent.com/74604371/205815081-248f2e90-1ee5-4397-87d9-055e142b2c36.png)<p align="center">_Instalando dependencias_</p>  
+  2. ***Organizando estructura***  
+  ![image](https://user-images.githubusercontent.com/74604371/206035836-1289c775-caec-43ac-8648-65c047e6122f.png)
+  El programa funciona solo que por un error no me deja conectarme en la base de datos, pero probando el link para conectarme funciona con mongo compass, adjunto evidencia  
+  ![image](https://user-images.githubusercontent.com/74604371/206036152-8a5e65a2-a1e0-4f83-9be5-14d1a6eb986f.png)<p align="center">_MongoDB Compass_</p>  
+  ![image](https://user-images.githubusercontent.com/74604371/206036267-6939c357-8bec-4810-bd1e-0726c900b924.png)<p align="center">_Inicio sesión correctamente_</p> 
+***Link del repositorio: https://github.com/mezcly08/Practica_02/tree/practica04_MongoDB***
