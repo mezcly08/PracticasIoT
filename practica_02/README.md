@@ -1,5 +1,6 @@
 ## Práctica 2: Creando un servidor REST  
 ### Elaborado por: Carlos Hoyos  
+***Link del repositorio del servidor: https://github.com/mezcly08/Practica_02***  
 1. **Instalar NodeJS y NestJS**  
   -Instalar:  
   ![instalar nodeJs](https://user-images.githubusercontent.com/74604371/204339688-4f83c4c8-2427-4e7d-986c-3db90c328f20.JPG)<p align="center">_Instalación correctamente NodeJS_</p>  
