@@ -17,3 +17,5 @@
   7. ***Obteniendo el URL del proyecto***  
   ![image](https://user-images.githubusercontent.com/74604371/205426728-b32c39f2-b9f6-457a-9c48-4258a29f8154.png)<p align="center">_ejecución del proyecto con la URL generada en DETA_</p>  
 ### 2. **Conectado a una base de datos**  
+  1. ***Instalando dependencias de MongoDB y TypeORM***  
+  ![image](https://user-images.githubusercontent.com/74604371/205815081-248f2e90-1ee5-4397-87d9-055e142b2c36.png)<p align="center">_Instalando dependencias_</p>  
